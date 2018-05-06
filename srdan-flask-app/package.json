@@ -1,0 +1,17 @@
+{
+  "name": "srdan-flask-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-dynamodb-local": "^0.2.30",
+    "serverless-python-requirements": "^4.0.2",
+    "serverless-wsgi": "^1.4.8"
+  }
+}
